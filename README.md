@@ -20,3 +20,7 @@ A web-based platform to discover, post, and stay updated on events happening in 
 
 ## Developed for:
 *GDSC Hackathon 2025*
+
+## UI wireframe
+A preview of our platform
+![wireframe png](https://github.com/user-attachments/assets/54a4c07a-ef1d-4509-9cc2-a6fbd534a1a1)
